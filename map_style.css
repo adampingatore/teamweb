@@ -1,0 +1,38 @@
+/* Styles for the map */
+
+.container{
+    position: relative;
+    width: 100%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.btn{
+    position: absolute;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);    
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    color: rgb(214, 205, 205);
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.btnCA{
+    left: 17.5%;
+    top: 54%;
+}
+.btnNY{
+    right: 16%;
+    top: 30%;
+}
+
+/* Other states' button positions below... */
+
+
